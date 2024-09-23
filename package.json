@@ -1,0 +1,8 @@
+{
+  "name": "mario-kart",
+  "version": "0.0.1",
+  "description": "projeto para brincar",
+  "main": "index.js",
+  "author": "bsbruno",
+  "license": "MIT"
+}
